@@ -1,4 +1,4 @@
-// Programmer: Melina Pouya & rOmina POuya
+// Programmer: Melina Pouya & Romina POuya
 // CS3B - Spring 2024
 // RASM4 - load_file
 //
