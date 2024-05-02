@@ -2,7 +2,6 @@
 // CS3B - Spring 2024
 //------------------------------------------------------------------------
 // RASM4 - hits_found subroutine
-// Last Modified: 4.19.2023
 //------------------------------------------------------------------------
 //
 // hits_found takes the address to a pointer of a linked list in x0 and the substring being searched for in 
